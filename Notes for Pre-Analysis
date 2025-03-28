@@ -1,0 +1,29 @@
+NOTES:
+Look at race before/after 2020 or COVID period - for offenders AND victims
+
+
+Prediction: if a specific race will continue to be a target/increase/decrease in this in the future
+Predicting variables = year (separate and distinct) & region (USA) & Offender race & Offender Age
+Target variable = race of victims
+Year, region, offender race, offender age, with predicter variable as victime race.
+
+
+BONUS: predict if a specific race also continues to be an “offender” in rates
+In the future: maybe show crime rates by region (maybe even grouping by race for offenders/targets)
+ 
+Prediction: if a case is solved or not depending on factors
+Predicting variables = location, crime type, victim race, offender race
+Target variable = if the case will be/was solved
+
+
+location, type, other features to see if case was solved or not
+Look at demographic of Asians within USA
+Predict if there’s more murder/hate crimes in these areas more or less or no correlation
+
+
+Look at crime rates before/after 2020 or COVID period
+Predict crimes 
+
+
+
+
